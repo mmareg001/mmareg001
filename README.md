@@ -1,7 +1,7 @@
 # 👋 About Me:
 Hello! My name is Gloria Mmare. I am a student studying Computer Science with Artificial Intelligence. I am just beginning my career in tech.
 I'm excited to collaborate with developers, AI enthusiasts, and designers who share a passion for creating meaningful solutions. 
-I am currently seeking Software Engineer Internships for Summer 2027. 
+I am currently seeking Software Engineer Internships for Summer 2026. 
 Feel free to reach out to me on my LinkedIn, I'm always up for a chat!
 
 ### 🌐 Socials:
@@ -35,4 +35,6 @@ I always open learning new programming languages and tools.
 
 ### 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmareg001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmareg001/&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mmareg001/&theme=dark)](https://git.io/streak-stats)

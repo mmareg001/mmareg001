@@ -33,5 +33,5 @@ Libraries and Frameworks:
 ![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-141414?style=for-the-badge&logo=beautiful-soup&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
 
-I always open learning new programming languages and tools. 
+I always open to learning new programming languages and tools. 
 

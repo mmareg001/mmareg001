@@ -30,7 +30,7 @@ Libraries and Frameworks:
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Kivy](https://img.shields.io/badge/Kivy-%23000000.svg?style=for-the-badge&logo=kivy&logoColor=%23499C49)
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/Beautiful%20Soup-141414?style=for-the-badge&logo=beautiful-soup&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-141414?style=for-the-badge&logo=beautiful-soup&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
 
 I always open to learning new programming languages and tools. 

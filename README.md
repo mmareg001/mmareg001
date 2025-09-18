@@ -6,8 +6,7 @@ Feel free to reach out to me on my LinkedIn, I'm always up for a chat!
 
 ### 🌐 Socials:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-LinkedIn::https://www.linkedin.com/in/gloria-mmare-92b07a1b2/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gloria-mmare-92b07a1b2/)
 
 ### 💻 Tech Stack:
 Programming Languages:

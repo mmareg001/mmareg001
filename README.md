@@ -33,8 +33,3 @@ Libraries and Frameworks:
 
 I always open learning new programming languages and tools. 
 
-### 📊 GitHub Stats:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmareg001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mmareg001&theme=dark)](https://git.io/streak-stats)

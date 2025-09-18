@@ -7,7 +7,7 @@ Feel free to reach out to me on my LinkedIn, I'm always up for a chat!
 ### 🌐 Socials:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]:https://www.linkedin.com/in/gloria-mmare-92b07a1b2/
+LinkedIn::https://www.linkedin.com/in/gloria-mmare-92b07a1b2/
 
 ### 💻 Tech Stack:
 Programming Languages:
@@ -36,4 +36,4 @@ I always open learning new programming languages and tools.
 
 ### 📊 GitHub Stats:
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmareg001&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

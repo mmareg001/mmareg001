@@ -32,6 +32,8 @@ Libraries and Frameworks:
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-141414?style=for-the-badge&logo=beautiful-soup&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+
 
 I always open to learning new programming languages and tools. 
 

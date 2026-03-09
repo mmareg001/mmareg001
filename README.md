@@ -1,7 +1,6 @@
 # 👋 About Me:
-Hello! My name is Gloria Mmare. I am a student studying Computer Science with Artificial Intelligence. I am just beginning my career in tech.
-I'm excited to collaborate with developers, AI enthusiasts, and designers who share a passion for creating meaningful solutions. 
-I am currently seeking Software Engineer Internships for Summer 2026. 
+Hello! My name is Gloria Mmare. I am a third year student studying Computer Science with Artificial Intelligence. I am just beginning my career in tech. I am an aspiring software engineer and full stack developer. 
+I'm excited to collaborate with developers, AI enthusiasts, and anyone who shares a passion for creating meaningful solutions. 
 Feel free to reach out to me on my LinkedIn, I'm always up for a chat!
 
 ### 🌐 Socials:

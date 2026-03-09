@@ -33,6 +33,14 @@ Libraries and Frameworks:
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-141414?style=for-the-badge&logo=beautiful-soup&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-000000?style=for-the-badge&logo=requests&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodejs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=expressjs&logoColor=white)
+
+Databases:
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=requests&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 I always open to learning new programming languages and tools. 
